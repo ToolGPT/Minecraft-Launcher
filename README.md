@@ -4,4 +4,4 @@
 
 ![](https://img.shields.io/github/stars/ToolGPT/Minecraft-Launcher.svg) 
 1
-9
+0
